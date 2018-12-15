@@ -1,7 +1,7 @@
 # Semantic-Segmentation---APM
 Self-driving cars
 
-Advanced Predictive Modleling - Course project 
+Advanced Predictive Modelling - Course project 
 
 Team: A.Apoorva Reddy, Pooshan Shah, Shan Qin, Serena D, Teeru Gupta
 
